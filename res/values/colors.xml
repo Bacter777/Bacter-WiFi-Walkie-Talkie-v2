@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EA</color>
+    <color name="colorPrimaryDark">#6200EA</color>
+    <color name="colorAccent">#0091EA</color>
+    <color name="colorBackground">#121010</color>
+    <color name="colorTextColor">#FFEBEE</color>
+    <color name="colorPurple">#6200EA</color>
+    <color name="talkButtonColor">#9C3920</color>
+    <!--Theme colors-->
+    <color name="primaryColor_blue">#2196F3</color>
+    <color name="primaryColorDark_blue">#1976D2</color>
+    <color name="primaryAccent_blue">#E3F2FD</color>
+
+    <color name="primaryColor_red">#F44336</color>
+    <color name="primaryColorDark_red">#D32F2F</color>
+    <color name="primaryAccent_red">#FFEBEE</color>
+</resources>

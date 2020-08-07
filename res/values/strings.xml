@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">WiFi Walkie-Talkie</string>
+    <string name="settings">Settings</string>
+    <string name="about">About WiFi Walkie-Talkie</string>
+    <string name="exit_app">Exit App</string>
+    <string name="about_text">WiFi Walkie-Talkie is an App that transmits sound recorded from microphone to some other
+        Android Devices running the same program, so works like a Walkie-Talkie Radio.\n Program licensed under GPL license,
+        source code available at \nhttps://github.com/Bacter777/WalkieTalkie\n\nProgram was implemented as a demonstration of JS-Collider:\nJava High-Performance scalable (NIO) framework, \nsee https://github.com/js-labs/js-collider.
+        \n\nVersion:\n2.0\n\nDeveloped by: BdFreak</string>
+    <string name="_colon">:</string>
+    <string name="cancel">Cancel</string>
+    <string name="check_wifi_status_on_start">Check WiFi Status on Start</string>
+    <string name="close">Close</string>
+    <string name="enable">Enable</string>
+    <string name="exit">Exit</string>
+    <string name="network_initialization_failed">Network initialization failed</string>
+    <string name="never_ask_again">Never ask again</string>
+    <string name="nsd_not_found">NSD service not found</string>
+    <string name="push_to_talk">\nPUSH-TO-TALK\n</string>
+    <string name="running">Running</string>
+    <string name="set">Set</string>
+    <string name="station_name">Station Name:</string>
+    <string name="system_error">System Error!</string>
+    <string name="turn_wifi_on">Turn WiFi ON</string>
+    <string name="use_volume_buttons_to_talk">Use Volume Buttons To Talk</string>
+    <string name="volume">Volume</string>
+    <string name="wifi_dialog_message">Application can only see devices connected to the same WiFi network.</string>
+    <string name="wifi_is_off">WiFi is off</string>
+    <string name="version">2.0</string>
+    <string name="use_amoled_theme">Use AMOLED Theme:</string>
+    <string name="amoled_enabled">Amoled Enabled</string>
+    <string name="ip">IP:</string>
+    <string name="back_button_exits">Back button exits</string>
+    <string name="splash">splash</string>
+    <string name="settings_text_select_theme">Select Theme:</string>
+    <string name="prefs_theme_key">Themes</string>
+    <string name="select_theme">Select Theme</string>
+    <string name="blue">BLUE</string>
+    <string name="red">RED</string>
+</resources>

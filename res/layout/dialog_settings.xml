@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:padding="5dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorAccent"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:padding="5dp"
+        android:text="@string/station_name"/>
+    <EditText
+        android:id="@+id/editTextStationName"
+        android:textColor="@color/colorAccent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        tools:ignore="Autofill,LabelFor,TextFields" />
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorAccent"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:padding="5dp"
+        android:text="@string/volume"/>
+    <SeekBar
+        android:id="@+id/seekBarVolume"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:ignore="UnusedAttribute" />
+    <CheckBox
+        android:id="@+id/checkBoxUseVolumeButtonsToTalk"
+        android:textColor="@color/colorAccent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:text="@string/use_volume_buttons_to_talk"/>
+    <CheckBox
+        android:id="@+id/checkBoxCheckWiFiStatusOnStart"
+        android:textColor="@color/colorAccent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:text="@string/check_wifi_status_on_start"/>
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:textColor="@color/colorAccent"
+        android:layout_height="wrap_content"
+        android:text="@string/back_button_exits"
+        android:id="@+id/checkBoxBackButtonExits"
+        android:paddingTop="6dp"
+        android:paddingBottom="6dp"/>
+</LinearLayout>
